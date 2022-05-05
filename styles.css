@@ -25,8 +25,8 @@
      position: relative;
      background-image: url('./images/bg-pattern-top.svg'), url('./images/bg-pattern-bottom.svg');
      background-position: 
-        top -500px left -220px,
-        bottom -580px right -220px;
+        top -500px left -200px,
+        bottom -580px right -200px;
      background-repeat: no-repeat;
  }
 
